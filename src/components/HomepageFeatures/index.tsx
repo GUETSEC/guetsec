@@ -11,9 +11,10 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'CTF比赛',
-    Svg: require('@site/static/img/flag.svg').default,
+    Svg: require('@site/static/img/ctf.svg').default,
     description: (
       <>
+      CTF（Capture The Flag）是一种流行的信息安全竞赛形式，其中其竞赛模式分为解题模式（Jeopardy）和攻防模式（Attack-Defense），还有就是这两者混合一起用。其中的详细介绍可以通过网站最下面的CTF-wiki去了解。
       </>
     ),
   },
@@ -22,6 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/hack.svg').default,
     description: (
       <>
+      网络攻防，又称“网络对抗”。网络攻击指综合利用目标网络存在的漏洞和安全缺陷对该网络系统的硬件、软件及其系统中的数据进行攻击；网络防护指综合利用己方网络系统功能和技术手段保护己方网络和设备。网络攻击和网络防护是一对“矛”和“盾”的关系，网络攻击一般超前于网络防护。
       </>
     ),
   },
