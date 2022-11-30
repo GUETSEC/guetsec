@@ -83,48 +83,50 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [{
-          title: '更多',
-          items: [
+        links:
+          [
+            // {
+            //   title: '更多',
+            //   items: [
+            //     {
+            //       label: 'GUETSEC-CTF靶场',
+            //       to: 'http://119.91.235.167:8000/',
+            //     },
+            //   ],
+            // },
             {
-              label: 'GUETSEC-CTF靶场',
-              to: 'http://119.91.235.167:8000/',
+              title: '友情链接',
+              items: [{
+                label: '七星瓢虫工作坊',
+                to: 'https://guet-ladybug.cn/',
+              },
+              ],
             },
+            {
+              title: '常用网址',
+              items: [{
+                label: 'CTF-wiki',
+                to: 'https://ctf-wiki.org/',
+              },
+              {
+                label: '攻防世界',
+                to: 'https://adworld.xctf.org.cn/',
+              },
+              {
+                label: 'BUU',
+                to: 'https://buuoj.cn/',
+              },
+              {
+                label: 'Bugku',
+                to: 'https://ctf.bugku.com/',
+              },
+              {
+                label: 'CTFshow',
+                to: 'https://ctf.show/',
+              },
+              ],
+            }
           ],
-        },
-        {
-          title: '友情链接',
-          items: [{
-            label: '七星瓢虫工作坊',
-            to: 'https://guet-ladybug.cn/',
-          },
-          ],
-        },
-        {
-          title: '常用网址',
-          items: [{
-            label: 'CTF-wiki',
-            to: 'https://ctf-wiki.org/',
-          },
-          {
-            label: '攻防世界',
-            to: 'https://adworld.xctf.org.cn/',
-          },
-          {
-            label: 'BUU',
-            to: 'https://buuoj.cn/',
-          },
-          {
-            label: 'Bugku',
-            to: 'https://ctf.bugku.com/',
-          },
-          {
-            label: 'CTFshow',
-            to: 'https://ctf.show/',
-          },
-          ],
-        }
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} GUETSEC. Built with Docusaurus.`,
       },
       prism: {
