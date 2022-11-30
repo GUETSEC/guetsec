@@ -85,14 +85,11 @@ const config = {
         style: 'dark',
         links: [{
           title: '更多',
-          items: [{
-            label: '博客',
-            to: 'blog',
-          },
-          {
-            label: 'GUETSEC-CTF靶场',
-            to: 'http://119.91.235.167:8000/',
-          },
+          items: [
+            {
+              label: 'GUETSEC-CTF靶场',
+              to: 'http://119.91.235.167:8000/',
+            },
           ],
         },
         {

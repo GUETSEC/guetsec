@@ -84,7 +84,7 @@ import React from 'react';
     name: 'pyh',
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=761439727&s=640',
     description: 're、pwn',
-    blogUrl: '"https://sf2333.github.io/'
+    blogUrl: 'https://sf2333.github.io/'
   },
   {
     name: 'cheems骑士',
@@ -120,13 +120,13 @@ import React from 'react';
     name: 'ZredamanJ', 
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=908768802&s=640',
     description: 'web',
-    blogUrl: 'hhttps://blog.csdn.net/qq_61237064',
+    blogUrl: 'https://blog.csdn.net/qq_61237064',
   },
   {
     name: '虚言',
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2367414692&s=640',
     description: '',
-    blogUrl: 'azio7.cn',
+    blogUrl: 'https://azio7.cn/',
   },
 ]
 
