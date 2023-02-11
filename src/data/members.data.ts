@@ -115,7 +115,7 @@ import React from 'react';
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2528969918&s=640',
     description: 'web',
     blogUrl: 'https://a1pha.top/',
-  },
+  }, 
   {
     name: 'ZredamanJ', 
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=908768802&s=640',
@@ -123,10 +123,40 @@ import React from 'react';
     blogUrl: 'https://blog.csdn.net/qq_61237064',
   },
   {
+    name: 'c2hndmF0', 
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2298952775&s=640',
+    description: '21级',
+    blogUrl: '',
+  },
+  {
     name: '虚言',
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2367414692&s=640',
-    description: '',
+    description: '22级',
     blogUrl: 'https://azio7.cn/',
+  },
+  {
+    name: 'Dr.07',
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1220980616&s=640',
+    description: '22级',
+    blogUrl: '',
+  },
+  {
+    name: 'jockerboxs',
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=3523267273&s=640',
+    description: '22级',
+    blogUrl: '',
+  },
+  {
+    name: '6个鸡蛋',
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=3088165315&s=640',
+    description: '22级',
+    blogUrl: '',
+  },
+  {
+    name: 'v50',
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2975519781&s=640',
+    description: '22级',
+    blogUrl: '',
   },
 ]
 

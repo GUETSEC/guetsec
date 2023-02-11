@@ -67,7 +67,7 @@ const config = {
             label: '荣誉',
             position: 'right'
           },
-          { to: '/about', label: '关于', position: 'right' },
+          // { to: '/about', label: '关于', position: 'right' },
           {
             to: 'docs/intro',
             activeBasePath: 'docs',
@@ -103,7 +103,7 @@ const config = {
               ],
             },
             {
-              title: '常用网址',
+              title: 'CTF训练平台',
               items: [{
                 label: 'CTF-wiki',
                 to: 'https://ctf-wiki.org/',
@@ -125,9 +125,25 @@ const config = {
                 to: 'https://ctf.show/',
               },
               ],
+            },
+            {
+              title: 'CTF-Tools',
+              items: [{
+                label: 'CyberChef-解密工具',
+                to: 'https://gchq.github.io/CyberChef/',
+              },
+              {
+                label: 'CTF-在线工具',
+                to: 'http://www.hiencode.com/',
+              },
+              {
+                label: '千千秀字',
+                to: 'https://www.qqxiuzi.cn/',
+              }
+            ],
             }
           ],
-        copyright: `Copyright © ${new Date().getFullYear()} GUETSEC. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} GUETSEC`,
       },
       prism: {
         theme: lightCodeTheme,
