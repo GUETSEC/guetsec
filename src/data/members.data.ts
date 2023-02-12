@@ -129,13 +129,13 @@ import React from 'react';
     blogUrl: '',
   },
   {
-    name: '虚言',
+    name: 'KuronekoKawaii',
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2367414692&s=640',
     description: '22级',
     blogUrl: 'https://azio7.cn/',
   },
   {
-    name: 'Dr.07',
+    name: 'DocToR.07',
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1220980616&s=640',
     description: '22级',
     blogUrl: '',
@@ -153,7 +153,7 @@ import React from 'react';
     blogUrl: '',
   },
   {
-    name: 'v50',
+    name: '抗冻',
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2975519781&s=640',
     description: '22级',
     blogUrl: '',
