@@ -3,9 +3,10 @@ import Layout from '@theme/Layout';
 
 export default function Hello() {
     return (
-        <Layout title="Hello" description="Hello React Page">
+        <Layout title="荣誉与奖项" description="Glory">
             <div className="text--center margin--lg">
                 <h1>荣誉与奖项</h1>
+                <p>Glory</p>
             </div>
             <div
                 style={{

@@ -64,7 +64,7 @@ const config = {
           },
           {
             to: 'glory',
-            label: '荣誉',
+            label: '荣誉与奖项',
             position: 'right'
           },
           // { to: '/about', label: '关于', position: 'right' },
