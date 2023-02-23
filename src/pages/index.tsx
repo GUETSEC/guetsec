@@ -14,14 +14,14 @@ function HomepageHeader() {
       <div className="container">
         <img src="img/logo.png" style={{ width: 280, borderRadius: '50%' }} />
         {/* <h1 className="hero__title">{siteConfig.title}</h1> */}
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        {/* <div className={styles.buttons}>
+        {/* <p className="hero__subtitle">{siteConfig.tagline}</p> */}
+        <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Start
+            Join us. To be what you want to be.
           </Link>
-        </div> */}
+        </div>
       </div>
     </header>
   );

@@ -103,6 +103,18 @@ const config = {
               ],
             },
             {
+              title: '桂电常用网址',
+              items: [{
+                label: '桂电官网',
+                to: 'https://www.guet.edu.cn/',
+              },
+              {
+                label: '智慧校园',
+                to: 'http://icampus.guet.edu.cn/',
+              },
+              ],
+            },
+            {
               title: 'CTF训练平台',
               items: [{
                 label: 'CTF-wiki',
