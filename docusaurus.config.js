@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.png',
+  favicon: 'img/G.svg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -56,67 +56,41 @@ const config = {
         //   alt: 'My Site Logo',
         //   src: 'img/logo.svg',
         // },
+        // { to: '/about', label: '关于', position: 'right' },
         items: [
           {
             to: 'members',
             label: '团队成员',
-            position: 'right'
+            position: 'left'
           },
           {
             to: 'glory',
             label: '荣誉与奖项',
-            position: 'right'
+            position: 'left'
           },
-          // { to: '/about', label: '关于', position: 'right' },
           {
             to: 'docs/intro',
             activeBasePath: 'docs',
-            position: 'right',
+            position: 'left',
             label: '文档',
           },
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links:
-          [
-            // {
-            //   title: '更多',
-            //   items: [
-            //     {
-            //       label: 'GUETSEC-CTF靶场',
-            //       to: 'http://119.91.235.167:8000/',
-            //     },
-            //   ],
-            // },
-            {
-              title: '友情链接',
-              items: [{
+          {
+            type: 'dropdown',
+            label: '友情链接',
+            position: 'left',
+            items: [
+              {
                 label: '七星瓢虫工作坊',
                 to: 'https://guet-ladybug.cn/',
-              },
-              ],
-            },
-            {
-              title: '桂电常用网址',
-              items: [{
-                label: '桂电官网',
-                to: 'https://www.guet.edu.cn/',
-              },
+              },   
+            ]
+          },
+          {
+            type: 'dropdown',
+            label: 'CTF-训练平台',
+            position: 'right',
+            items: [
               {
-                label: '智慧校园',
-                to: 'http://icampus.guet.edu.cn/',
-              },
-              ],
-            },
-            {
-              title: 'CTF训练平台',
-              items: [{
                 label: 'CTF-wiki',
                 to: 'https://ctf-wiki.org/',
               },
@@ -136,11 +110,14 @@ const config = {
                 label: 'CTFshow',
                 to: 'https://ctf.show/',
               },
-              ],
-            },
-            {
-              title: 'CTF-Tools',
-              items: [{
+            ]
+          },
+          {
+            type: 'dropdown',
+            label: '在线工具',
+            position: 'right',
+            items: [
+              {
                 label: 'CyberChef-解密工具',
                 to: 'https://gchq.github.io/CyberChef/',
               },
@@ -151,9 +128,29 @@ const config = {
               {
                 label: '千千秀字',
                 to: 'https://www.qqxiuzi.cn/',
-              }
-            ],
-            }
+              },
+            ]
+          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
+        ],
+      },
+      footer: {
+        style: 'light',
+        links:
+          [
+            // {
+            //   title: '更多',
+            //   items: [
+            //     {
+            //       label: 'GUETSEC-CTF靶场',
+            //       to: 'http://119.91.235.167:8000/',
+            //     },
+            //   ],
+            // },
           ],
         copyright: `Copyright © ${new Date().getFullYear()} GUETSEC`,
       },
