@@ -126,7 +126,7 @@ import React from 'react';
     name: 'c2hndmF0', 
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2298952775&s=640',
     description: '21级',
-    blogUrl: '',
+    blogUrl: 'https://www.cray0n.online/',
   },
   {
     name: 'KuronekoKawaii',
