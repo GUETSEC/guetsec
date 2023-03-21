@@ -10,13 +10,13 @@ import React from 'react';
  const members: Member[] = [
   {
     name: 'lkerenl',
-    avatar: '/memberavater/lkerenl.jpg',
+    avatar: 'memberavatar/lkerenl.jpg',
     description: '华为工程师',
     blogUrl: 'https://lkerenl.github.io/',
   },
   {
     name: 'winS0cks',
-    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2259407354&s=640',
+    avatar: 'memberavatar/winS0cks.jpg',
     description: '渗透测试工程师',
     blogUrl: 'https://n0puple.github.io/',
   },
