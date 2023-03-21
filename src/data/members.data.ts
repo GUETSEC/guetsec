@@ -22,141 +22,141 @@ import React from 'react';
   },
   {
     name: 'foubean',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1468860776&s=640',
+    avatar: 'memberavatar/foubean.jpg',
     description: '开发',
     blogUrl: 'https://foubean.github.io/'
   },
   {
     name: 'lktop',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1277843354&s=640',
+    avatar: 'memberavatar/lktop.jpg',
     description: 'GameFi大庄家',
     blogUrl: 'https://www.cnblogs.com/lktop/'
   },
   {
     name: 'SNCKER',
-    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=948375961&s=640',
+    avatar: 'memberavatar/SNCKER.jpg',
     description: '协会扫地学长',
     blogUrl: 'https://sncker.github.io/blog/',
   },
   {
     name: 'sivona',
-    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=1323551395&s=640',
+    avatar: 'memberavatar/sivona.jpg',
     description: '贯石斧',
     blogUrl: 'https://sivona.top/',
   },
   {
     name: 'Injoy',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1766198704&s=640',
+    avatar: 'memberavatar/Injoy.jpg',
     description: 'Master Li',
     blogUrl: 'https://www.cnblogs.com/lnjoy/'
   },
   {
     name: 'C1everF0x',
-    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=1160118161&s=640',
+    avatar: 'memberavatar/C1everF0x.jpg',
     description: 'web、pwn、macos',
     blogUrl: 'https://c1everf0x.top',
   },
   {
     name: 'xinZa1',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1049453191&s=640',
+    avatar: 'memberavatar/xinZa1.jpg',
     description: 'web',
     blogUrl: 'http://101.35.133.48/'
   },
     {
     name: 'caddyetui',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1846737201&s=640',
+    avatar: 'memberavatar/caddyetui.jpg',
     description: 'pwn',
     blogUrl: 'https://blog.csdn.net/m0_51185908?spm=1001.2014.3001.5509'
   },
     {
     name: 'Sapphire',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=740608748&s=640',
+    avatar: 'memberavatar/Sapphire.jpg',
     description: 'web、misc',
     blogUrl: 'https://sapphire037.github.io/'
   },
   {
     name: 't0dis',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=3440848736&s=640',
+    avatar: 'memberavatar/t0dis.jpg',
     description: 'web',
     blogUrl: 'https://todis21.github.io/'
   },
   {
     name: 'pyh',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=761439727&s=640',
+    avatar: 'memberavatar/pyh.jpg',
     description: 're、pwn',
     blogUrl: 'https://sf2333.github.io/'
   },
   {
     name: 'cheems骑士',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=3499624385&s=640',
+    avatar: 'memberavatar/cheems.jpg',
     description: 'web、misc',
     blogUrl: 'http://101.35.138.4/'
   },
   {
     name: '甜不拉几',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1622913224&s=640',
+    avatar: 'memberavatar/tblj.jpg',
     description: 'web',
     blogUrl: 'https://blog.csdn.net/wlllllianqing'
   },
   {
     name: 'Mo_chni',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=937290500&s=640',
+    avatar: 'memberavatar/Mo_chni.jpg',
     description: 'web、misc',
     blogUrl: 'https://blog.csdn.net/m0_52975560?spm=1000.2115.3001.5343'
   },
   {
     name: 'ta0tie',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2463258637&s=640',
+    avatar: 'memberavatar/ta0tie.jpg',
     description: 'crypto',
     blogUrl: 'https://www.cnblogs.com/ta0tie'
   },
   {
     name: 'Alpha', 
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2528969918&s=640',
+    avatar: 'memberavatar/Alpha.jpg',
     description: 'web',
     blogUrl: 'https://a1pha.top/',
   }, 
   {
     name: 'ZredamanJ', 
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=908768802&s=640',
+    avatar: 'memberavatar/ZredamanJ.jpg',
     description: 'web',
     blogUrl: 'https://blog.csdn.net/qq_61237064',
   },
   {
     name: 'c2hndmF0', 
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2298952775&s=640',
+    avatar: 'memberavatar/c2hndmF0.jpg',
     description: 'web',
     blogUrl: 'https://www.cray0n.online/',
   },
   {
     name: 'KuronekoKawaii',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2367414692&s=640',
+    avatar: 'memberavatar/KuronekoKawaii.jpg',
     description: '22级',
     blogUrl: 'https://azio7.cn/',
   },
   {
     name: 'DocToR.07',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1220980616&s=640',
+    avatar: 'memberavatar/07.jpg',
     description: '22级',
     blogUrl: '',
   },
   {
     name: 'jockerboxs',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=3523267273&s=640',
+    avatar: 'memberavatar/jockerboxs.jpg',
     description: '22级',
     blogUrl: '',
   },
   {
     name: '6个鸡蛋',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=3088165315&s=640',
+    avatar: 'memberavatar/6gjd.jpg',
     description: '22级',
     blogUrl: '',
   },
   {
     name: '抗冻',
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2975519781&s=640',
+    avatar: 'memberavatar/kd.jpg',
     description: '22级',
-    blogUrl: '',
+    blogUrl: 'https://doog.pro/',
   },
 ]
 
