@@ -10,7 +10,7 @@ import React from 'react';
  const members: Member[] = [
   {
     name: 'lkerenl',
-    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=736560763&s=640',
+    avatar: '/memberavater/lkerenl.jpg',
     description: '华为工程师',
     blogUrl: 'https://lkerenl.github.io/',
   },
