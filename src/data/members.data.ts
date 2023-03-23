@@ -138,13 +138,13 @@ import React from 'react';
     name: 'DocToR.07',
     avatar: 'memberavatar/07.jpg',
     description: '22级',
-    blogUrl: '',
+    blogUrl: 'https://eif07.github.io/',
   },
   {
     name: 'jockerboxs',
     avatar: 'memberavatar/jockerboxs.jpg',
-    description: '22级',
-    blogUrl: '',
+    description: '二进制',
+    blogUrl: 'https://jokerboxs.github.io/',
   },
   {
     name: '6个鸡蛋',
