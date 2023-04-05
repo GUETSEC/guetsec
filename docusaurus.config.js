@@ -86,6 +86,11 @@ const config = {
             ]
           },
           {
+            to: 'http://tools.guetsec.cn/',
+            label: '网盘系统',
+            position: 'right',
+          },
+          {
             type: 'dropdown',
             label: 'CTF-学习网站',
             position: 'right',
