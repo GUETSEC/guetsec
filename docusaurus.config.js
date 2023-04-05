@@ -118,7 +118,7 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: '常用在线工具',
+            label: '在线工具',
             position: 'right',
             items: [
               {
