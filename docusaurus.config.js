@@ -87,7 +87,7 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'CTF-训练平台',
+            label: 'CTF-学习网站',
             position: 'right',
             items: [
               {
@@ -99,7 +99,7 @@ const config = {
                 to: 'https://adworld.xctf.org.cn/',
               },
               {
-                label: 'BUU',
+                label: 'BUUCTF',
                 to: 'https://buuoj.cn/',
               },
               {
@@ -110,11 +110,15 @@ const config = {
                 label: 'CTFshow',
                 to: 'https://ctf.show/',
               },
+              {
+                label: 'i春秋',
+                to: 'https://www.ichunqiu.com/',
+              },
             ]
           },
           {
             type: 'dropdown',
-            label: '在线工具',
+            label: '常用在线工具',
             position: 'right',
             items: [
               {
@@ -122,7 +126,7 @@ const config = {
                 to: 'https://gchq.github.io/CyberChef/',
               },
               {
-                label: 'CTF-在线工具',
+                label: 'CTF常用编码在线工具',
                 to: 'http://www.hiencode.com/',
               },
               {
