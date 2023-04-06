@@ -86,7 +86,7 @@ const config = {
             ]
           },
           {
-            to: 'http://tools.guetsec.cn/',
+            to: 'https://pan.guetsec.cn/',
             label: '网盘系统',
             position: 'right',
           },
