@@ -161,7 +161,7 @@ const config = {
             //   ],
             // },
           ],
-        copyright: `Copyright © ${new Date().getFullYear()} GUETSEC`,
+        copyright: `Copyright © ${new Date().getFullYear()} GUETSEC  桂ICP备2022011217号`,
       },
       prism: {
         theme: lightCodeTheme,
