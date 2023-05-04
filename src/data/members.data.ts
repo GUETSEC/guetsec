@@ -132,7 +132,7 @@ import React from 'react';
     name: 'KuronekoKawaii',
     avatar: 'memberavatar/KuronekoKawaii.jpg',
     description: '22级',
-    blogUrl: 'https://azio7.cn/',
+    blogUrl: '',
   },
   {
     name: 'DocToR.07',
