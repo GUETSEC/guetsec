@@ -129,6 +129,12 @@ import React from 'react';
     blogUrl: 'https://www.cray0n.online/',
   },
   {
+    name: 'R00k1e_X1a0Ba1', 
+    avatar: 'memberavatar/R00k1e_X1a0Ba1.jpg',
+    description: 'web、渗透',
+    blogUrl: 'https://blog.csdn.net/m0_63441547?spm=1018.2226.3001.5343',
+  },
+  {
     name: 'KuronekoKawaii',
     avatar: 'memberavatar/KuronekoKawaii.jpg',
     description: '22级',
