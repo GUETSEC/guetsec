@@ -32,7 +32,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`欢迎来到 ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="欢迎来到GUETSEC的主页">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
