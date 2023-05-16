@@ -90,7 +90,7 @@ import React from 'react';
     name: 'cheems骑士',
     avatar: 'memberavatar/cheems.jpg',
     description: 'web、misc',
-    blogUrl: 'http://101.35.138.4/'
+    blogUrl: 'https://vcdogjt.github.io/'
   },
   {
     name: '甜不拉几',

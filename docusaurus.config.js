@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'GUETSEC', // Usually your GitHub org/user name.
+  projectName: 'GUETSEC-website', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -68,6 +68,11 @@ const config = {
             label: '荣誉与奖项',
             position: 'left'
           },
+          // {
+          //   to: 'album',
+          //   position: 'left',
+          //   label: '相册',
+          // },
           {
             to: 'docs/intro',
             activeBasePath: 'docs',
