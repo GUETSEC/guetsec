@@ -85,11 +85,11 @@ const config = {
               },   
             ]
           },
-          {
-            to: 'https://pan.guetsec.cn/',
-            label: '网盘系统',
-            position: 'right',
-          },
+          // {
+          //   to: 'https://pan.guetsec.cn/',
+          //   label: '网盘系统',
+          //   position: 'right',
+          // },
           {
             type: 'dropdown',
             label: 'CTF-学习网站',
@@ -98,6 +98,21 @@ const config = {
               {
                 label: 'CTF-wiki',
                 to: 'https://ctf-wiki.org/',
+              },
+              {
+                label: 'CTF快速入门手册',
+                to: 'https://github.com/ProbiusOfficial/CTF-QuickStart',
+              }
+            ]
+          },
+          {
+            type: 'dropdown',
+            label: 'CTF-训练网站',
+            position: 'right',
+            items: [
+              {
+                label: 'NSSCTF',
+                to: 'https://www.nssctf.cn',
               },
               {
                 label: '攻防世界',
