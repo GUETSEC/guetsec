@@ -17,9 +17,13 @@ export default function Hello() {
                 }}>
                 <table>
                     <tr>
-                        <td rowspan="2">2023年</td>
+                        <td rowspan="1">年份</td>
                         <td>赛事</td>
                         <td>名次</td>
+                    </tr>
+
+                    <tr>
+                        <td rowspan="2">2023年</td>
                     </tr>
                     <tr>
                         <td>2023年桂林电子科技大学“追‘烽’逐影 登‘烽’造极”——工控夺旗挑战赛</td>
@@ -28,8 +32,6 @@ export default function Hello() {
 
                     <tr>
                         <td rowspan="6">2022年</td>
-                        <td>赛事</td>
-                        <td>名次</td>
                     </tr>
                     <tr>
                         <td>2022年首届广西大学生“英招杯”网络安全技能大赛</td>
@@ -119,7 +121,7 @@ export default function Hello() {
                         <td>2020中国高校计算机网络技术挑战赛（华南赛区）</td>
                         <td>三等奖</td>
                     </tr>
-                    
+
                     <tr>
                         <td rowspan="7">2019年</td>
                         <td>2019第十二届全国大学生信息安全竞赛（实践赛）</td>
