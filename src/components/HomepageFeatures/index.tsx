@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/ctf.svg').default,
     description: (
       <>
-      CTF（Capture The Flag）是一种流行的信息安全竞赛形式，其中其竞赛模式分为解题模式（Jeopardy）和攻防模式（Attack-Defense），还有就是这两者混合一起用。其中的详细介绍可以通过<a href="https://ctf-wiki.org/" target="_blank">CTF-wiki</a>去了解。
+      CTF（Capture The Flag）是一种流行的信息安全竞赛形式，其中其竞赛模式分为解题模式（Jeopardy）和攻防模式（Attack-Defense），还有就是这两者混合一起用。其中的详细介绍可以通过<a href="https://ctf-wiki.org/" target="_blank">CTF-wiki</a>了解更多。
       </>
     ),
   },

@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'GUETSEC',
   tagline: 'Join us. To be what you want to be.',
-  url: 'http://guetsec.cn/',
+  url: 'https://guetsec.cn/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -59,6 +59,12 @@ const config = {
         // { to: '/about', label: '关于', position: 'right' },
         items: [
           {
+            to: 'docs/intro',
+            activeBasePath: 'docs',
+            position: 'left',
+            label: '文档',
+          },
+          {
             to: 'members',
             label: '团队成员',
             position: 'left'
@@ -73,12 +79,6 @@ const config = {
           //   position: 'left',
           //   label: '相册',
           // },
-          {
-            to: 'docs/intro',
-            activeBasePath: 'docs',
-            position: 'left',
-            label: '文档',
-          },
           {
             type: 'dropdown',
             label: '友情链接',
