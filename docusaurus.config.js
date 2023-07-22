@@ -95,71 +95,71 @@ const config = {
           //   label: '网盘系统',
           //   position: 'right',
           // },
-          {
-            type: 'dropdown',
-            label: 'CTF-学习网站',
-            position: 'right',
-            items: [
-              {
-                label: 'CTF-wiki',
-                to: 'https://ctf-wiki.org/',
-              },
-              {
-                label: 'CTF快速入门手册',
-                to: 'https://github.com/ProbiusOfficial/CTF-QuickStart',
-              }
-            ]
-          },
-          {
-            type: 'dropdown',
-            label: 'CTF-训练网站',
-            position: 'right',
-            items: [
-              {
-                label: 'NSSCTF',
-                to: 'https://www.nssctf.cn',
-              },
-              {
-                label: '攻防世界',
-                to: 'https://adworld.xctf.org.cn/',
-              },
-              {
-                label: 'BUUCTF',
-                to: 'https://buuoj.cn/',
-              },
-              {
-                label: 'Bugku',
-                to: 'https://ctf.bugku.com/',
-              },
-              {
-                label: 'CTFshow',
-                to: 'https://ctf.show/',
-              },
-              {
-                label: 'i春秋',
-                to: 'https://www.ichunqiu.com/',
-              },
-            ]
-          },
-          {
-            type: 'dropdown',
-            label: '在线工具',
-            position: 'right',
-            items: [
-              {
-                label: 'CyberChef-解密工具',
-                to: 'https://gchq.github.io/CyberChef/',
-              },
-              {
-                label: 'CTF常用编码在线工具',
-                to: 'http://www.hiencode.com/',
-              },
-              {
-                label: '千千秀字',
-                to: 'https://www.qqxiuzi.cn/',
-              },
-            ]
-          },
+          // {
+          //   type: 'dropdown',
+          //   label: 'CTF-学习网站',
+          //   position: 'right',
+          //   items: [
+          //     {
+          //       label: 'CTF-wiki',
+          //       to: 'https://ctf-wiki.org/',
+          //     },
+          //     {
+          //       label: 'CTF快速入门手册',
+          //       to: 'https://github.com/ProbiusOfficial/CTF-QuickStart',
+          //     }
+          //   ]
+          // },
+          // {
+          //   type: 'dropdown',
+          //   label: 'CTF-训练网站',
+          //   position: 'right',
+          //   items: [
+          //     {
+          //       label: 'NSSCTF',
+          //       to: 'https://www.nssctf.cn',
+          //     },
+          //     {
+          //       label: '攻防世界',
+          //       to: 'https://adworld.xctf.org.cn/',
+          //     },
+          //     {
+          //       label: 'BUUCTF',
+          //       to: 'https://buuoj.cn/',
+          //     },
+          //     {
+          //       label: 'Bugku',
+          //       to: 'https://ctf.bugku.com/',
+          //     },
+          //     {
+          //       label: 'CTFshow',
+          //       to: 'https://ctf.show/',
+          //     },
+          //     {
+          //       label: 'i春秋',
+          //       to: 'https://www.ichunqiu.com/',
+          //     },
+          //   ]
+          // },
+          // {
+          //   type: 'dropdown',
+          //   label: '在线工具',
+          //   position: 'right',
+          //   items: [
+          //     {
+          //       label: 'CyberChef-解密工具',
+          //       to: 'https://gchq.github.io/CyberChef/',
+          //     },
+          //     {
+          //       label: 'CTF常用编码在线工具',
+          //       to: 'http://www.hiencode.com/',
+          //     },
+          //     {
+          //       label: '千千秀字',
+          //       to: 'https://www.qqxiuzi.cn/',
+          //     },
+          //   ]
+          // },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
