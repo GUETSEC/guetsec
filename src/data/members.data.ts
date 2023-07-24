@@ -114,7 +114,7 @@ import React from 'react';
     name: 'Alpha', 
     avatar: 'memberavatar/Alpha.jpg',
     description: 'web',
-    blogUrl: 'https://a1pha.top/',
+    blogUrl: 'https://a1pha.cn',
   }, 
   {
     name: 'ZredamanJ', 
