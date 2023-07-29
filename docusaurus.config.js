@@ -181,12 +181,13 @@ const config = {
             //   ],
             // },
           ],
-        copyright: `Copyright © ${new Date().getFullYear()} GUETSEC`,
+        copyright: `<p>Copyright © ${new Date().getFullYear()} GUETSEC</p><p><a href="https://beian.miit.gov.cn/" >桂ICP备2022011217号</a></p>`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      
     }),
 };
 

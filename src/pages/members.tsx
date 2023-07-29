@@ -27,10 +27,15 @@ function MembersWall() {
         <main>
           <div className="text--center margin-vert--lg">
             <h1>团队成员</h1>
-            <p>Members</p>
+            <p>这里不仅有团队成员，也有志同道合的朋友们</p>
           </div>
           <div className="container">
             <MemberList />
+          </div>
+          <div className="text--center margin-vert--lg">
+            <p>
+              期待大家的加入！
+            </p>
           </div>
         </main>
       </Layout>
