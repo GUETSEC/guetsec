@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: '七星瓢虫工作坊',
-                to: 'https://guet-ladybug.cn/',
+                to: 'https://guet.anineg.space/',
               },   
             ]
           },
