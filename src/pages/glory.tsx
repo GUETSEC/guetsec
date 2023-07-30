@@ -139,7 +139,7 @@ export default function Hello() {
                     </tr>
 
                     <tr>
-                        <td rowspan="7">2019年</td>
+                        <td rowspan="6">2019年</td>
                         <td>2019第十二届全国大学生信息安全竞赛（实践赛）</td>
                         <td>赛区二等奖</td>
                     </tr>
@@ -161,12 +161,9 @@ export default function Hello() {
                     </tr>
                     <tr>
                         <td>第五届广西网络安全技术大赛</td>
-                        <td>三等奖</td>
+                        <td>三等奖、优秀奖</td>
                     </tr>
-                    <tr>
-                        <td>第五届广西网络安全技术大赛</td>
-                        <td>优秀奖</td>
-                    </tr>
+
                     <tr>
                         <td rowspan="3">2017年</td>
                         <td>天枢中西部高校网络安全邀请赛</td>
