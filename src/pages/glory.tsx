@@ -23,7 +23,7 @@ export default function Hello() {
                     </tr>
 
                     <tr>
-                        <td rowspan="5">2023年</td>
+                        <td rowspan="6">2023年</td>
                     </tr>
                     <tr>
                         <td>第十六届全国大学生信息安全竞赛-创新实践能力赛-全国总决赛</td>
@@ -36,6 +36,10 @@ export default function Hello() {
                     <tr>
                         <td>第四届信息安全铁人三项“长城杯”决赛</td>
                         <td>三等奖</td>
+                    </tr>
+                    <tr>
+                        <td>2023年信息安全与对抗技术竞赛-个人挑战赛</td>
+                        <td>一等奖、二等奖、三等奖</td>
                     </tr>
                     <tr>
                         <td>2023年桂林电子科技大学“追‘烽’逐影 登‘烽’造极”——工控夺旗挑战赛</td>
