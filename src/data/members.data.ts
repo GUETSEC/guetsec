@@ -66,7 +66,7 @@ import React from 'react';
     name: 'caddyetui',
     avatar: 'memberavatar/caddyetui.jpg',
     description: 'pwn',
-    blogUrl: 'https://blog.csdn.net/m0_51185908?spm=1001.2014.3001.5509'
+    blogUrl: 'https://caddyetui.top/'
   },
     {
     name: 'Sapphire',
