@@ -91,6 +91,11 @@ const config = {
             ]
           },
           // {
+          //   to: 'https://www.yuque.com/guetsec',
+          //   label: '语雀',
+          //   position: 'right',
+          // },
+          // {
           //   to: 'https://pan.guetsec.cn/',
           //   label: '网盘系统',
           //   position: 'right',
