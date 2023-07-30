@@ -177,6 +177,7 @@ export default function Hello() {
                         <td>“平衡信息杯”第二届南宁市网络安全攻防技术大赛决赛</td>
                         <td>二等奖</td>
                     </tr>
+                    
                     <tr>
                         <td rowspan="3">2016年</td>
                         <td>“安恒杯”首届南宁市网络安全攻防技术大赛决赛 </td>
