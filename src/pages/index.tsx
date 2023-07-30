@@ -18,8 +18,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Join us. To be what you want to be.
+            to="/docs/zx/2023">
+            2023年招新了！！欢迎加群击剑
           </Link>
         </div>
       </div>
