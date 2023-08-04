@@ -87,7 +87,11 @@ const config = {
               {
                 label: '七星瓢虫工作坊',
                 to: 'https://guet.anineg.space/',
-              },   
+              },
+              {
+                label: '穿山甲安全纵队',
+                to: 'http://8.130.32.193:8016/',
+              },
             ]
           },
           // {
