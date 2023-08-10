@@ -33,9 +33,7 @@ function MembersWall() {
             <MemberList />
           </div>
           <div className="text--center margin-vert--lg">
-            <p>
-              期待大家的加入！
-            </p>
+            <p>PS：有需要修改或添加友链的，邮箱联系管理员<a href="mailto:a1phaa@163.com" target="_blank" title="Email">a1phaa@163.com</a></p>
           </div>
         </main>
       </Layout>

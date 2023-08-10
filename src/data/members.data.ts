@@ -23,7 +23,7 @@ import React from 'react';
   {
     name: 'foubean',
     avatar: 'memberavatar/foubean.jpg',
-    description: '开发',
+    description: 'Development',
     blogUrl: 'https://foubean.github.io/'
   },
   {
@@ -60,7 +60,7 @@ import React from 'react';
     name: 'xinZa1',
     avatar: 'memberavatar/xinZa1.jpg',
     description: 'web',
-    blogUrl: 'http://101.35.133.48/'
+    blogUrl: ''
   },
     {
     name: 'caddyetui',
@@ -107,13 +107,13 @@ import React from 'react';
   {
     name: 'ta0tie',
     avatar: 'memberavatar/ta0tie.jpg',
-    description: 'crypto',
+    description: 'crypto、blockchain',
     blogUrl: 'https://www.cnblogs.com/ta0tie'
   },
   {
     name: 'Alpha', 
     avatar: 'memberavatar/Alpha.jpg',
-    description: 'web',
+    description: 'web、DevOps',
     blogUrl: 'https://a1pha.cn',
   }, 
   {
@@ -137,13 +137,13 @@ import React from 'react';
   {
     name: 'KuronekoKawaii',
     avatar: 'memberavatar/KuronekoKawaii.jpg',
-    description: '22级',
+    description: 'web、kotlin',
     blogUrl: 'https://blog.kuroneko.cn/',
   },
   {
     name: 'DocToR.07',
     avatar: 'memberavatar/07.jpg',
-    description: '22级',
+    description: 'misc',
     blogUrl: 'https://eif07.github.io/',
   },
   {
@@ -155,13 +155,13 @@ import React from 'react';
   {
     name: '6个鸡蛋',
     avatar: 'memberavatar/6gjd.jpg',
-    description: '22级',
+    description: 'web、渗透',
     blogUrl: '',
   },
   {
     name: '抗冻',
     avatar: 'memberavatar/kd.jpg',
-    description: '22级',
+    description: 'web、挖洞',
     blogUrl: 'https://doog.pro/',
   },
 ]
