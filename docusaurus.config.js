@@ -92,6 +92,10 @@ const config = {
                 label: '穿山甲安全纵队',
                 to: 'http://8.130.32.193:8016/',
               },
+              {
+                label: '信息安全维护小组',
+                to: 'https://www.cnblogs.com/xinanxiaozu/',
+              }
             ]
           },
           // {
