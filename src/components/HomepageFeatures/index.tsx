@@ -62,6 +62,10 @@ export default function HomepageFeatures(): JSX.Element {
             <Feature key={idx} {...props} />
           ))}
         </div>
+        <div>
+        <div>
+        <iframe width="100%" height="720" src="//player.bilibili.com/player.html?aid=829925098&bvid=BV1wu4y1R7Zc&cid=1237437074&page=1"> </iframe>
+        </div>
       </div>
     </section>
   );
