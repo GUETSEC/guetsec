@@ -63,8 +63,8 @@ export default function HomepageFeatures(): JSX.Element {
           ))}
         </div>
         <div>
-        <div>
-        <iframe width="100%" height="720" src="//player.bilibili.com/player.html?aid=829925098&bvid=BV1wu4y1R7Zc&cid=1237437074&page=1"> </iframe>
+          <h1 align="center">2023招新视频</h1>
+          <iframe width="100%" height="720" src="//player.bilibili.com/player.html?aid=829925098&bvid=BV1wu4y1R7Zc&cid=1237437074&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
         </div>
       </div>
     </section>
