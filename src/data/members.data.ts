@@ -41,7 +41,7 @@ import React from 'react';
   {
     name: 'sivona',
     avatar: 'memberavatar/sivona.jpg',
-    description: '贯石斧',
+    description: '奇安信爷',
     blogUrl: 'https://sivona.top/',
   },
   {
