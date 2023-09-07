@@ -156,7 +156,7 @@ import React from 'react';
     name: '6个鸡蛋',
     avatar: 'memberavatar/6gjd.jpg',
     description: 'web、渗透',
-    blogUrl: '',
+    blogUrl: 'https://bdsmjj.github.io/',
   },
   {
     name: '抗冻',

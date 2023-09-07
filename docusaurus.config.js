@@ -93,6 +93,11 @@ const config = {
               }
             ]
           },
+          {
+            to: 'https://alist.guetsec.cn/',
+            label: '校园网工具站',
+            position: 'left'
+          },
         ],
       },
       footer: {
