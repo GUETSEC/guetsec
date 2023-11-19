@@ -100,23 +100,23 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'light',
-        links:
-          [
-            // {
-            //   title: '更多',
-            //   items: [
-            //     {
-            //       label: 'GUETSEC-CTF靶场',
-            //       to: 'http://119.91.235.167:8000/',
-            //     },
-            //   ],
-            // },
-          ],
-        copyright: `<p>Copyright © ${new Date().getFullYear()} GUETSEC</p> <p><a target="_blank" href="https://beian.miit.gov.cn/" >桂ICP备2022011217号-1</a></p>`,
-        //
-      },
+      // footer: {
+      //   style: 'light',
+      //   links:
+      //     [
+      //       // {
+      //       //   title: '更多',
+      //       //   items: [
+      //       //     {
+      //       //       label: 'GUETSEC-CTF靶场',
+      //       //       to: 'http://119.91.235.167:8000/',
+      //       //     },
+      //       //   ],
+      //       // },
+      //     ],
+      //   copyright: `<p>Copyright © ${new Date().getFullYear()} GUETSEC</p> <p><a target="_blank" href="https://beian.miit.gov.cn/" >桂ICP备2022011217号-1</a></p>`,
+      //   //
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
