@@ -150,7 +150,7 @@ import React from 'react';
     name: 'jockerboxs',
     avatar: 'memberavatar/jockerboxs.jpg',
     description: '二进制',
-    blogUrl: 'https://blog.csdn.net/jokerboxs?type=blog',
+    blogUrl: 'https://jokerboxs.github.io/',
   },
   {
     name: '6个鸡蛋',
