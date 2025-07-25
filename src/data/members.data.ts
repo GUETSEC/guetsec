@@ -124,14 +124,14 @@ const members: Member[] = [
     name: 'ta0tie',
     avatar: 'memberavatar/ta0tie.jpg',
     description: 'crypto、blockchain',
-    blogUrl: 'https://www.cnblogs.com/ta0tie',
+    blogUrl: 'https://www.ta0tie.cn/',
     grade: '2021级',
   },
   {
     name: 'crzliang',
     avatar: 'memberavatar/Alpha.jpg',
     description: 'web、DevOps',
-    blogUrl: 'https://crzliang.cn',
+    blogUrl: 'https://blog.crzliang.cn',
     grade: '2021级',
   },
   {
