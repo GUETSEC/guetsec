@@ -74,25 +74,25 @@ const config = {
             label: '荣誉与奖项',
             position: 'left'
           },
-          {
-            type: 'dropdown',
-            label: '友情链接',
-            position: 'left',
-            items: [
-              {
-                label: '七星瓢虫工作坊',
-                to: 'https://guet.anineg.space/',
-              },
-              {
-                label: '穿山甲安全纵队',
-                to: 'http://8.130.32.193:8016/',
-              },
-              {
-                label: '信息安全维护小组',
-                to: 'https://www.cnblogs.com/xinanxiaozu/',
-              }
-            ]
-          },
+          // {
+          //   type: 'dropdown',
+          //   label: '友情链接',
+          //   position: 'left',
+          //   items: [
+          //     {
+          //       label: '七星瓢虫工作坊',
+          //       to: 'https://guet.anineg.space/',
+          //     },
+          //     {
+          //       label: '穿山甲安全纵队',
+          //       to: 'http://8.130.32.193:8016/',
+          //     },
+          //     {
+          //       label: '信息安全维护小组',
+          //       to: 'https://www.cnblogs.com/xinanxiaozu/',
+          //     }
+          //   ]
+          // },
           {
             to: 'https://alist.guetsec.cn/',
             label: '校园网工具站',
