@@ -74,49 +74,46 @@ const config = {
             label: '荣誉与奖项',
             position: 'left'
           },
-          // {
-          //   type: 'dropdown',
-          //   label: '友情链接',
-          //   position: 'left',
-          //   items: [
-          //     {
-          //       label: '七星瓢虫工作坊',
-          //       to: 'https://guet.anineg.space/',
-          //     },
-          //     {
-          //       label: '穿山甲安全纵队',
-          //       to: 'http://8.130.32.193:8016/',
-          //     },
-          //     {
-          //       label: '信息安全维护小组',
-          //       to: 'https://www.cnblogs.com/xinanxiaozu/',
-          //     }
-          //   ]
-          // },
-          {
-            to: 'https://alist.guetsec.cn/',
-            label: '校园网工具站',
-            position: 'left'
-          },
         ],
       },
-      // footer: {
-      //   style: 'light',
-      //   links:
-      //     [
-      //       // {
-      //       //   title: '更多',
-      //       //   items: [
-      //       //     {
-      //       //       label: 'GUETSEC-CTF靶场',
-      //       //       to: 'http://119.91.235.167:8000/',
-      //       //     },
-      //       //   ],
-      //       // },
-      //     ],
-      //   copyright: `<p>Copyright © ${new Date().getFullYear()} GUETSEC</p> <p><a target="_blank" href="https://beian.miit.gov.cn/" >桂ICP备2022011217号-1</a></p>`,
-      //   //
-      // },
+      footer: {
+        style: 'light',
+        links:
+          [
+            {
+              title: '相关站点',
+              items: [
+                {
+                  label: '工具站（仅限校内访问）',
+                  href: 'https://alist.guetsec.cn/',
+                },
+                {
+                  label: '靶场（仅限校内访问）',
+                  href: 'https://ctf.guetsec.cn/',
+                },
+                {
+                  label: '招新靶场（互联网可访问）',
+                  href: 'https://public.guetsec.cn/',
+                },
+              ],
+            },
+            {
+              title: '友情链接',
+              items: [
+                {
+                  label: '网络与信息技术中心',
+                  href: 'https://www.guet.edu.cn/xjzx/',
+                },
+                {
+                  label: '三院信息安全维护小组',
+                  href: 'https://www.cnblogs.com/xinanxiaozu/',
+                },
+              ],
+            },
+          ],
+        copyright: `<p>Copyright © ${new Date().getFullYear()} GUETSEC</p>`,
+        //
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
